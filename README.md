@@ -1,6 +1,6 @@
 # Osman Yetkin 
 
-**Data Analysis • BI • ML**
+** .NET Backend • Data Analysis • BI • ML**
 
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge)
