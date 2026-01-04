@@ -1,4 +1,4 @@
-# Osman Yetkin 👋
+# Osman Yetkin 
 
 **Data Analysis • BI • ML**
 
