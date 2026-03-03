@@ -1,25 +1,116 @@
-# Osman Yetkin 
+<h1 align="center">Hi 👋, I'm Osman Yetkin</h1>
+<h3 align="center">Data Analytics & BI Enthusiast · .NET Backend Developer · ML Explorer</h3>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=osmanveyetkin&label=Profile%20views&color=0e75b6&style=flat" alt="osmanveyetkin" />
+</p>
+<p align="center">
+🇹🇷 Turning messy data into clear decisions
+</p>
 
-** .NET Backend • Data Analysis • BI • ML**
+## 🧭 About Me
 
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge)
-![R](https://img.shields.io/badge/R-000?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-000?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-000?style=for-the-badge)
+I design and build **data-driven solutions** with a strong focus on **analytics, visualization, and backend development**.
 
-## About
-I focus on **turning messy data into clear decisions**.  
-Currently building projects around analytics, dashboards, and ML basics.
+My background sits at the intersection of:
+- **Data Analytics & Business Intelligence**
+- **.NET Backend Development**
+- **Machine Learning & Statistical Modeling**
+- **Database Design & Management**
 
-## Learning / Practicing
-- Advanced Data Analytics & Advanced BI
-- Kaggle (end-to-end notebooks)
-- Tableau (dashboards & storytelling)
-- DBMS, Python, R
-- C# & Java (because I enjoy it 😄 or for school :d)
+Currently building projects around dashboards, end-to-end analytics pipelines, and ML fundamentals.
 
-## Connect
-- LinkedIn: https://www.linkedin.com/in/osmanveyetkin/
+---
 
-> ⚡ Fun fact: With two hands, you don’t clap — you **collect data**.
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osmanveyetkin&theme=zenburn" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osmanveyetkin&theme=zenburn" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osmanveyetkin&theme=zenburn" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osmanveyetkin&theme=zenburn" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osmanveyetkin&theme=zenburn&utcOffset=3" />
+</p>
+
+---
+
+## 🚀 What I'm Working On
+
+- 🔭 Building **analytics dashboards & BI solutions** with Tableau and Power BI
+- 🧠 Practicing **Machine Learning** with end-to-end Kaggle notebooks
+- 💻 Developing **.NET backend applications** and Windows Forms projects
+- 📊 Turning complex datasets into **actionable insights**
+
+---
+
+## 🤝 Collaboration
+
+- 👯 Open to collaborating on **data analytics & visualization projects**
+- 🤝 Always interested in **BI dashboards, ML pipelines, and database design**
+- 🧪 Happy to exchange ideas on **SQL optimization, data modeling, or analytics workflows**
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+- Python · SQL · C# · R · Java · TypeScript
+
+**Data & Analytics**
+- Tableau · Power BI · Pandas · NumPy · Matplotlib · Seaborn
+
+**Backend & Frameworks**
+- .NET · Windows Forms · REST APIs
+
+**Databases**
+- PostgreSQL · SQL Server · DBMS Design
+
+**ML & AI**
+- Scikit-learn · Linear Regression · Data Preprocessing · EDA
+
+**Tools & DevOps**
+- Git · GitHub · Jupyter Notebook · VS Code · Visual Studio
+
+---
+
+## 🌍 Projects & Highlights
+
+- 📊 **SalesDashboardApp** — Sales analytics dashboard built with C#
+- 🏥 **Diabetes-Analysis** — Data analysis & ML on diabetes dataset
+- 🏠 **Boston Housing Price Analysis** — Statistical modeling with R
+- 🤖 **AI-ML Ders Notlari** — AI & ML course materials platform
+- 🎮 **SaenkaGame** — 2D game built with Java LibGDX
+- 🗃️ **SQL Database Projects** — Relational database design for university systems
+
+---
+
+## 📬 Contact
+
+- 📫 Reach me on **LinkedIn**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/osmanveyetkin" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://github.com/osmanveyetkin" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+       alt="GitHub" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<p align="center">
+<b>Data before decisions. Insights before action.</b><br/>
+With two hands, you don't clap — you <b>collect data</b>.
+</p>
