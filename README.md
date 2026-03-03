@@ -35,6 +35,12 @@ Currently building projects around dashboards, end-to-end analytics pipelines, a
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osmanveyetkin&theme=zenburn&utcOffset=3" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osmanveyetkin/osmanveyetkin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osmanveyetkin/osmanveyetkin/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/osmanveyetkin/osmanveyetkin/output/github-snake.svg" />
+</picture>
+
 ---
 
 ## 🚀 What I'm Working On
