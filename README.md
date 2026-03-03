@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osman Yetkin</h1>
-<h3 align="center">Data Analytics & BI Enthusiast · .NET Backend Developer · ML Explorer</h3>
+<h3 align="center">Data Analytics & BI Enthusiast · .NET 10 Backend Developer · ML Explorer</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=osmanveyetkin&label=Profile%20views&color=0e75b6&style=flat" alt="osmanveyetkin" />
 </p>
@@ -47,7 +47,7 @@ Currently building projects around dashboards, end-to-end analytics pipelines, a
 
 - 🔭 Building **analytics dashboards & BI solutions** with Tableau and Power BI
 - 🧠 Practicing **Machine Learning** with end-to-end Kaggle notebooks
-- 💻 Developing **.NET backend applications** and Windows Forms projects
+- 💻 Developing **.NET 10 backend applications** and modern web APIs
 - 📊 Turning complex datasets into **actionable insights**
 
 ---
@@ -69,7 +69,7 @@ Currently building projects around dashboards, end-to-end analytics pipelines, a
 - Tableau · Power BI · Pandas · NumPy · Matplotlib · Seaborn
 
 **Backend & Frameworks**
-- .NET · Windows Forms · REST APIs
+- .NET 10 · ASP.NET Core · REST APIs · Windows Forms
 
 **Databases**
 - PostgreSQL · SQL Server · DBMS Design
