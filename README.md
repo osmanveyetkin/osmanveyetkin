@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Osman Yetkin</h1>
+<h1 align="center">Hi, I'm Osman Yetkin</h1>
 <h3 align="center">Data Analytics & BI Enthusiast · .NET 10 Backend Developer · ML Explorer</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=osmanveyetkin&label=Profile%20views&color=0e75b6&style=flat" alt="osmanveyetkin" />
 </p>
 <p align="center">
-🇹🇷 Turning messy data into clear decisions
+Turning messy data into clear decisions
 </p>
 
-## 🧭 About Me
+## About Me
 
 I design and build **data-driven solutions** with a strong focus on **analytics, visualization, and backend development**.
 
@@ -22,23 +22,17 @@ Currently building projects around dashboards, end-to-end analytics pipelines, a
 ---
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=osmanveyetkin&theme=gruvbox&no-frame=true&row=1&column=7" alt="trophy" />
-  </a>
+  <img width="90%" src="https://raw.githubusercontent.com/osmanveyetkin/osmanveyetkin/output-cards/zenburn/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osmanveyetkin&theme=zenburn" />
+  <img width="45%" src="https://raw.githubusercontent.com/osmanveyetkin/osmanveyetkin/output-cards/zenburn/3-stats.svg" />
+  <img width="45%" src="https://raw.githubusercontent.com/osmanveyetkin/osmanveyetkin/output-cards/zenburn/1-repos-per-language.svg" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osmanveyetkin&theme=zenburn" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osmanveyetkin&theme=zenburn" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osmanveyetkin&theme=zenburn" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osmanveyetkin&theme=zenburn&utcOffset=3" />
+  <img width="45%" src="https://raw.githubusercontent.com/osmanveyetkin/osmanveyetkin/output-cards/zenburn/2-most-commit-language.svg" />
+  <img width="45%" src="https://raw.githubusercontent.com/osmanveyetkin/osmanveyetkin/output-cards/zenburn/4-productive-time.svg" />
 </p>
 
 <p align="center">
@@ -53,24 +47,24 @@ Currently building projects around dashboards, end-to-end analytics pipelines, a
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
-- 🔭 Building **analytics dashboards & BI solutions** with Tableau and Power BI
-- 🧠 Practicing **Machine Learning** with end-to-end Kaggle notebooks
-- 💻 Developing **.NET 10 backend applications** and modern web APIs
-- 📊 Turning complex datasets into **actionable insights**
-
----
-
-## 🤝 Collaboration
-
-- 👯 Open to collaborating on **data analytics & visualization projects**
-- 🤝 Always interested in **BI dashboards, ML pipelines, and database design**
-- 🧪 Happy to exchange ideas on **SQL optimization, data modeling, or analytics workflows**
+- Building **analytics dashboards & BI solutions** with Tableau and Power BI
+- Practicing **Machine Learning** with end-to-end Kaggle notebooks
+- Developing **.NET 10 backend applications** and modern web APIs
+- Turning complex datasets into **actionable insights**
 
 ---
 
-## 🧰 Tech Stack
+## Collaboration
+
+- Open to collaborating on **data analytics & visualization projects**
+- Always interested in **BI dashboards, ML pipelines, and database design**
+- Happy to exchange ideas on **SQL optimization, data modeling, or analytics workflows**
+
+---
+
+## Tech Stack
 
 **Languages**
 
@@ -117,24 +111,24 @@ Currently building projects around dashboards, end-to-end analytics pipelines, a
 
 ---
 
-## 🌍 Projects & Highlights
+## Projects & Highlights
 
-- 📊 **[SalesDashboardApp](https://github.com/osmanveyetkin/SalesDashboardApp)** — Sales analytics dashboard built with C#
-- 🏥 **[Diabetes-Analysis](https://github.com/osmanveyetkin/Diabetes-Analysis)** — Data analysis & ML on diabetes dataset
-- 🏠 **[Boston Housing Price Analysis](https://github.com/osmanveyetkin/Boston_Housing_Price_Analysis)** — Statistical modeling with R
-- 🎬 **[YouTube Playlist Duration Calculator](https://github.com/osmanveyetkin/YouTube-playlist-duration-calculator-YTV3API)** — YouTube API integration with TypeScript
-- 🏦 **[Dino Bank](https://github.com/osmanveyetkin/dino-bank)** — Banking app built with JavaScript
-- 🖩 **[Calculator App](https://github.com/osmanveyetkin/Calculator-App)** — Clean code & OOP calculator with C# WinForms
-- ⏰ **[Alarm App](https://github.com/osmanveyetkin/Alarm-App-)** — Modern alarm clock with music playback in C#
-- 🐍 **[BusTicketReservation](https://github.com/osmanveyetkin/BusTicketReservation)** — Bus ticket reservation system in Python
-- 🤖 **[AI-ML Ders Notlari](https://github.com/osmanveyetkin/AI-ML_ders_notlari)** — AI & ML course materials platform
-- 🎮 **[SaenkaGame](https://github.com/osmanveyetkin/saenkaGame)** — 2D game built with Java LibGDX
-- 🗃️ **[SQL Database Projects](https://github.com/osmanveyetkin/SQLDataBaseProject)** — Relational database design for university systems
-- 📈 **[Linear Regression Practice](https://github.com/osmanveyetkin/Linear-Regression-Practice-Using-Python)** — ML regression practice with Python
+- **[SalesDashboardApp](https://github.com/osmanveyetkin/SalesDashboardApp)** — Sales analytics dashboard built with C#
+- **[Diabetes-Analysis](https://github.com/osmanveyetkin/Diabetes-Analysis)** — Data analysis & ML on diabetes dataset
+- **[Boston Housing Price Analysis](https://github.com/osmanveyetkin/Boston_Housing_Price_Analysis)** — Statistical modeling with R
+- **[YouTube Playlist Duration Calculator](https://github.com/osmanveyetkin/YouTube-playlist-duration-calculator-YTV3API)** — YouTube API integration with TypeScript
+- **[Dino Bank](https://github.com/osmanveyetkin/dino-bank)** — Banking app built with JavaScript
+- **[Calculator App](https://github.com/osmanveyetkin/Calculator-App)** — Clean code & OOP calculator with C# WinForms
+- **[Alarm App](https://github.com/osmanveyetkin/Alarm-App-)** — Modern alarm clock with music playback in C#
+- **[BusTicketReservation](https://github.com/osmanveyetkin/BusTicketReservation)** — Bus ticket reservation system in Python
+- **[AI-ML Ders Notlari](https://github.com/osmanveyetkin/AI-ML_ders_notlari)** — AI & ML course materials platform
+- **[SaenkaGame](https://github.com/osmanveyetkin/saenkaGame)** — 2D game built with Java LibGDX
+- **[SQL Database Projects](https://github.com/osmanveyetkin/SQLDataBaseProject)** — Relational database design for university systems
+- **[Linear Regression Practice](https://github.com/osmanveyetkin/Linear-Regression-Practice-Using-Python)** — ML regression practice with Python
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/osmanveyetkin" target="_blank">
